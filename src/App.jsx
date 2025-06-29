@@ -327,7 +327,7 @@ function App() {
                   transforming ideas into engaging visual content.
                 </p>
                 <a
-                  href="/resume.pdf"
+                  href="/Resume-2025"
                   download
                   className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl inline-block text-center transition duration-300 ease-in-out transform hover:bg-yellow-400 hover:scale-105"
                 >
